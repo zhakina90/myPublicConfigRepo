@@ -1,0 +1,2 @@
+# myPublicConfigRepo
+for learnig
